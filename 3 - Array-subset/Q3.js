@@ -6,7 +6,7 @@
 // Output: true
 // Explanation: b[] is a subset of a[]
 
-//Quetion link : (https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions)
+//Question link : (https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions)
 
 
 function isSubset(a, b) {
