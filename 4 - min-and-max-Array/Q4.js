@@ -9,7 +9,7 @@
 // Output: [3, 15]
 // Explanation: minimum and maximum element of array are 3 and 15.
 
-//Quetion link : (https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions)
+//Question link : (https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions)
 
 function getMinMax(arr) {
        
