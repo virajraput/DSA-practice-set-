@@ -6,7 +6,7 @@
 // Output: 90
 // Explanation: The largest element of the given array is 90.
 
-// Quetions link : (https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions)
+// Questions link : (https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions)
 
 function largest(arr) {
 
